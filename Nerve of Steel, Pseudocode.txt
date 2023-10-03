@@ -1,0 +1,11 @@
+#This is a program to execute the Nerve of Steel Game
+
+Run Nerve of Steel Game
+	Put chairs together
+	Bring players to chairs
+	Say "Players stand"
+	Run a timer for a random number of seconds between the range of 5 and 25 seconds
+	UNTIL timer is running, sit down
+		Say "Time up. Last to sit down wins"
+		UNTIL last person does not sit down, continue game
+		
